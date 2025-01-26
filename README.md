@@ -14,7 +14,7 @@ This project involves analyzing customer spending habits, identifying top-sellin
 
 ## Files in the Repository
 - **[Music Store Data Analysis with SQL.pdf](Music Store Data Analysis with SQL.pdf):** Detailed report of the project, including objectives, scope, schema, queries, and insights.
-- **Database Schema:** [schema.sql](#) (Include SQL schema here if added separately).
+- **Database Schema:** [MusicDatabaseSchema.sql](#) (Include SQL schema here if added separately).
 - **Sample Data:** [sample_data.sql](#) (Optional, include sample data if available).
 
 ## Key Insights
